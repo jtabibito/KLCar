@@ -1,0 +1,12 @@
+UI结构
+同一Layer的不同Depth的Panel
+
+-PanelMain主界面 0
+    -PanelBackground 背景层 10
+    -PanelBottom 底层 20
+    -PanelPopupWindow 弹窗层 30
+    -PanelPopupTip 提示层 40
+    -PanelTop 顶层显示 50
+    -PanelDebug 调试层 1000
+
+-Panel2DWorld
