@@ -1,0 +1,5 @@
+﻿id,petName,petAvt,description,costTypeOfGain,costValueOfGain,skillPrefab,skillName,skillDescription,skillEffect1,skillEffect2,skillBelongTime,skillCooldown,cooldownAtBegin,unlockFailTip
+string,string,string,string,int,int,string,string,string,int,int,int,int,int,string
+1,软绵绵,PetAvt1,一只可爱的小绵羊，但是千万不要被它的外表所迷惑,1,10000,PetSkill_Hudun,绵绵飞弹,释放加速效果，让玩家处于急速冲刺当中,1,0,5,20,20,解锁失败，金币不足10000
+2,鸵鸟-KL,PetAvt2,理想城中的机械宠物，能够辅助赛车手进行比赛,2,160,PetSkill_JiaSu,喷气加速,释放加速效果，并吸取金币，让玩家获得加速的同时获得大量金币,1,4,3,20,20,解锁失败，钻石不足160
+3,军火猪,PetAvt4,一只暴躁的虎皮猪，总是横冲直撞的破坏着,3,5000,PetSkill_YinSheng,火药爆破,具有无敌效果横冲直撞，让玩家变身无敌超人模式,2,0,3,30,15,解锁失败，积分不足5000

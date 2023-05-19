@@ -1,0 +1,5 @@
+﻿id,prefabPath,createControllerName,ready,hyk_1,left_1,right_1,driftL_1,driftR_1,left_2,right_2,hyk_2,driftL_2,driftR_2,hitF,hitB,hitL,hitR,attack,lookL,victory,failed,lookR
+string,string,string,string,string,string,string,string,string,string,string,string,string,string,string,string,string,string,string,string,string,string,string
+1,Assets\GameResources\GameAssets\PublicGameObjects\RoleAvt1.prefab,RoleAvt1Controller,ready,hyk_1,left_1,right_1,driftL_1,driftR_1,left_1,right_1,hyk_1,driftL_1,driftR_1,hitF,hitB,hitL,hitR,attack,lookL,role_01@victory,role_01@failed,lookR
+2,Assets\GameResources\GameAssets\PublicGameObjects\PetAvt1.prefab,PetAvt1Controller,run,run,run,run,run,run,run,run,run,run,run,run,run,run,run,run,run,run,run,run
+3,Assets\GameResources\GameAssets\PublicGameObjects\PetAvt2.prefab,PetAvt2Controller,pet_02@run_1,pet_02@run_1,pet_02@run_1,pet_02@run_1,pet_02@driftL_1,pet_02@driftL_1,pet_02@run_1,pet_02@run_1,pet_02@run_1,pet_02@driftL_1,pet_02@driftL_1,pet_02@hitF,pet_02@hitB,pet_02@hitL,pet_02@hitL,pet_02@attack,pet_02@looKL,pet_02@run_1,pet_02@run_1,pet_02@looKL

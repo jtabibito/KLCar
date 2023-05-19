@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 6413615250b077c408559c400440c9aa
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - runTarget: {fileID: 100010, guid: a7c71e2a40eca2f4a89c667b0f2cc9ed, type: 2}
+  - zhunXinPrefab: {fileID: 100000, guid: b8fcf9085dee11a44b9d21750b8a0dae, type: 2}
+  - feidanPrefab: {fileID: 100004, guid: 18e41e5ddd94a6845ace70ccfb865707, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

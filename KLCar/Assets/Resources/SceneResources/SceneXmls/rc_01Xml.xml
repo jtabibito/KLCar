@@ -1,0 +1,1414 @@
+<Root level="rc_01">
+  <Fx>
+    <FxNode name="rc_fx_01" posX="227.7019" posY="19.01206" posZ="-206.1811" rotX="52.74736" rotY="178.306" rotZ="179.6527" scaleX="5.952665" scaleY="6.213163" scaleZ="6.213168">
+      <LightMaps>
+        <LightMap Name="Bloom04/Bloom02" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="Bloom04/Bloom03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_01" posX="363.3284" posY="17.22075" posZ="-226.1806" rotX="60.21695" rotY="337.8154" rotZ="348.8769" scaleX="5.96286" scaleY="6.155891" scaleZ="6.161206">
+      <LightMaps>
+        <LightMap Name="Bloom04/Bloom02" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="Bloom04/Bloom03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_01" posX="404.9286" posY="27.52406" posZ="-190.3584" rotX="54.25895" rotY="305.2451" rotZ="356.1867" scaleX="5.954342" scaleY="6.20435" scaleZ="6.204891">
+      <LightMaps>
+        <LightMap Name="Bloom04/Bloom02" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="Bloom04/Bloom03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_03" posX="411.8364" posY="22.67728" posZ="-23.75183" rotX="270" rotY="356.5076" rotZ="0" scaleX="14.9559" scaleY="49.08689" scaleZ="5.629603">
+      <LightMaps />
+    </FxNode>
+    <FxNode name="rc_fx_03" posX="32.32487" posY="22.67728" posZ="127.9058" rotX="270" rotY="260.6709" rotZ="0" scaleX="14.9559" scaleY="49.08689" scaleZ="5.629603">
+      <LightMaps />
+    </FxNode>
+    <FxNode name="rc_fx_06" posX="0" posY="0" posZ="0" rotX="270" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="" LightmapIndex="0" OffsetX="0.05175781" OffsetY="0.05175781" OffsetZ="0.8913994" OffsetW="0.3171806" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_08" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="______022" LightmapIndex="0" OffsetX="0.006835938" OffsetY="0.006835938" OffsetZ="0.9599342" OffsetW="0.1571999" />
+        <LightMap Name="______023" LightmapIndex="0" OffsetX="0.004882813" OffsetY="0.004882813" OffsetZ="0.6161919" OffsetW="0.41502" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_10" posX="273.584" posY="3.888036" posZ="-240.2547" rotX="0" rotY="180" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="Box001" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9677734" OffsetW="0.1455078" />
+        <LightMap Name="Cylinder042" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.8935071" OffsetW="0.2558091" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_10" posX="217.913" posY="3.888036" posZ="-240.0584" rotX="0" rotY="180" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="Box001" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951172" OffsetW="0.06347656" />
+        <LightMap Name="Cylinder042" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.6610852" OffsetW="0.410106" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_10" posX="340.2464" posY="3.888036" posZ="-235.7363" rotX="0" rotY="162.3572" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="Box001" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9677734" OffsetW="0.1416016" />
+        <LightMap Name="Cylinder042" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.9862806" OffsetW="0.2050278" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_10" posX="217.913" posY="3.888036" posZ="-203.3789" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="Box001" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951172" OffsetW="0.08007813" />
+        <LightMap Name="Cylinder042" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.9862806" OffsetW="0.1981919" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_10" posX="395.3186" posY="3.744023" posZ="-134.324" rotX="0" rotY="270.2498" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="Box001" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951172" OffsetW="0.05957031" />
+        <LightMap Name="Cylinder042" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.9130384" OffsetW="0.1522935" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_10" posX="330.2509" posY="3.888036" posZ="-203.551" rotX="0" rotY="344.2717" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="Box001" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951172" OffsetW="0.07617188" />
+        <LightMap Name="Cylinder042" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.9472181" OffsetW="0.1522935" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_10" posX="374.3683" posY="3.744023" posZ="-182.5387" rotX="0" rotY="324.2607" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="Box001" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9677734" OffsetW="0.1533203" />
+        <LightMap Name="Cylinder042" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.9198743" OffsetW="0.1522935" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_10" posX="428.423" posY="3.785053" posZ="-135.8102" rotX="0" rotY="88.33533" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="Box001" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9677734" OffsetW="0.1494141" />
+        <LightMap Name="Cylinder042" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.6610852" OffsetW="0.40327" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_10" posX="395.245" posY="3.785053" posZ="-210.505" rotX="0" rotY="142.3462" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="Box001" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9101563" OffsetW="0.15625" />
+        <LightMap Name="Cylinder042" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.9267102" OffsetW="0.1522935" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_10" posX="177.3787" posY="3.888036" posZ="-203.0099" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="Box001" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9101563" OffsetW="0.1523438" />
+        <LightMap Name="Cylinder042" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.9003431" OffsetW="0.2558091" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_10" posX="177.3787" posY="3.888036" posZ="-239.1729" rotX="0" rotY="180" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="Box001" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951172" OffsetW="0.06738281" />
+        <LightMap Name="Cylinder042" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.9403821" OffsetW="0.1522935" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_10" posX="273.584" posY="3.888036" posZ="-204.0917" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="Box001" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951172" OffsetW="0.07128906" />
+        <LightMap Name="Cylinder042" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.9335462" OffsetW="0.1522935" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_17" posX="343.9819" posY="-1.426294" posZ="-232.7435" rotX="0" rotY="72.47479" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="______008" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="______009" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="Plane027" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_17" posX="-398.8391" posY="-1.426294" posZ="134.4351" rotX="0" rotY="234.314" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="______008" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="______009" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="Plane027" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_17" posX="-305.735" posY="-1.426294" posZ="-97.23722" rotX="0" rotY="163.6531" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="______008" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="______009" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="Plane027" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_17" posX="425.1693" posY="-0.9436341" posZ="132.1308" rotX="0" rotY="348.1446" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="______008" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="______009" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="Plane027" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_17" posX="-286.5944" posY="-1.426294" posZ="-210.5501" rotX="0" rotY="120.9386" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="______008" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="______009" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="Plane027" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_17" posX="400.7625" posY="-1.426294" posZ="-203.5851" rotX="0" rotY="48.18681" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="______008" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="______009" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="Plane027" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </FxNode>
+    <FxNode name="rc_fx_17" posX="363.909" posY="-0.9436341" posZ="210.4705" rotX="0" rotY="289.7028" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="______008" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="______009" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="Plane027" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </FxNode>
+  </Fx>
+  <Models>
+    <ModelsNode name="rc_01_bud_06" posX="-191.7724" posY="-6.720787E-05" posZ="-589.6274" rotX="0" rotY="180" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_bud_06" LightmapIndex="0" OffsetX="0.1660156" OffsetY="0.1660156" OffsetZ="0.7005234" OffsetW="-0.0006484985" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_bud_07_01" posX="78.96469" posY="0" posZ="42.6431" rotX="0" rotY="53.84786" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_bud_07" LightmapIndex="0" OffsetX="0.04589844" OffsetY="0.04589844" OffsetZ="0.6707191" OffsetW="0.4871254" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_bud_07_01" posX="97.70901" posY="0" posZ="188.2293" rotX="0" rotY="299.5658" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_bud_07" LightmapIndex="0" OffsetX="0.04589844" OffsetY="0.04589844" OffsetZ="0.9129066" OffsetW="0.1414223" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_bud_07_01" posX="148.6546" posY="0" posZ="-362.8033" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_bud_07" LightmapIndex="0" OffsetX="0.04589844" OffsetY="0.04589844" OffsetZ="0.8660316" OffsetW="0.1414223" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_bud_07_01" posX="244.1563" posY="0" posZ="343.021" rotX="0" rotY="185.8239" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_bud_07" LightmapIndex="0" OffsetX="0.04589844" OffsetY="0.04589844" OffsetZ="0.7947426" OffsetW="0.1482582" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_bud_07_01" posX="280.3925" posY="0" posZ="144.8303" rotX="0" rotY="163.5515" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_bud_07" LightmapIndex="0" OffsetX="0.04589844" OffsetY="0.04589844" OffsetZ="0.7478676" OffsetW="0.1482582" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_bud_07_02" posX="-209.069" posY="0" posZ="357.5994" rotX="0" rotY="183.1233" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_bud_07" LightmapIndex="0" OffsetX="0.04589844" OffsetY="0.04589844" OffsetZ="0.7009926" OffsetW="0.1482582" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_05" posX="-289.767" posY="0" posZ="-149.9951" rotX="0" rotY="58.82701" rotZ="0" scaleX="0.4471531" scaleY="0.4471531" scaleZ="0.4471531">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_05" LightmapIndex="0" OffsetX="0.03417969" OffsetY="0.03417969" OffsetZ="0.8397102" OffsetW="0.3690071" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_05" posX="-322.2509" posY="0" posZ="-186.1611" rotX="0" rotY="224.4768" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_05" LightmapIndex="0" OffsetX="0.07714844" OffsetY="0.07714844" OffsetZ="0.9079018" OffsetW="0.1598549" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_11_02" posX="-332.3396" posY="-0.1839093" posZ="-54.69371" rotX="0" rotY="0" rotZ="0" scaleX="0.5875448" scaleY="0.5875448" scaleZ="0.5875448">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_11_02" LightmapIndex="0" OffsetX="0.01757813" OffsetY="0.01757813" OffsetZ="0.9774704" OffsetW="0.2489548" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_11_02" posX="-331.9494" posY="-0.1155839" posZ="-156.0459" rotX="0" rotY="344.7423" rotZ="0" scaleX="0.4629613" scaleY="0.4629614" scaleZ="0.4629613">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_11_02" LightmapIndex="0" OffsetX="0.01367188" OffsetY="0.01367188" OffsetZ="0.9784622" OffsetW="0.3690872" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_11_02" posX="-230.4585" posY="-0.5357234" posZ="-182.7128" rotX="0" rotY="23.23696" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_11_02" LightmapIndex="0" OffsetX="0.03027344" OffsetY="0.03027344" OffsetZ="0.8397255" OffsetW="0.4617958" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_12" posX="45.42117" posY="-6.711785E-05" posZ="-190.8425" rotX="0" rotY="43.3502" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_12" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="rc_01_budA_12/______030" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="rc_01_budA_12/______030/______029" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_01" posX="-339.8645" posY="0" posZ="-178.3704" rotX="0" rotY="21.13305" rotZ="0" scaleX="0.6231176" scaleY="0.6231176" scaleZ="0.6231176">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_01" LightmapIndex="0" OffsetX="0.03808594" OffsetY="0.03808594" OffsetZ="0.7889137" OffsetW="0.4285622" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_01" posX="-248.5398" posY="-0.1699162" posZ="77.79871" rotX="0" rotY="99.66421" rotZ="0" scaleX="0.341559" scaleY="0.341559" scaleZ="0.341559">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_01" LightmapIndex="0" OffsetX="0.02050781" OffsetY="0.02050781" OffsetZ="0.9764824" OffsetW="0.2880058" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_01" posX="-255.4419" posY="0" posZ="148.5173" rotX="0" rotY="147.7191" rotZ="0" scaleX="0.3672442" scaleY="0.3672442" scaleZ="0.3672442">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_01" LightmapIndex="0" OffsetX="0.02246094" OffsetY="0.02246094" OffsetZ="0.9715919" OffsetW="0.1219826" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_01" posX="-366.1537" posY="0" posZ="173.7639" rotX="0" rotY="161.4662" rotZ="0" scaleX="0.8522593" scaleY="0.8522593" scaleZ="0.8522593">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_01" LightmapIndex="0" OffsetX="0.05175781" OffsetY="0.05175781" OffsetZ="0.6160088" OffsetW="0.41679" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_01" posX="-467.9512" posY="0" posZ="139.3553" rotX="0" rotY="47.10397" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_01" LightmapIndex="0" OffsetX="0.06054688" OffsetY="0.06054688" OffsetZ="0.6706619" OffsetW="0.3991776" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_01" posX="-236.3984" posY="9.025349" posZ="171.814" rotX="0" rotY="147.7191" rotZ="0" scaleX="0.2700025" scaleY="0.2700025" scaleZ="0.2700025">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_01" LightmapIndex="0" OffsetX="0.015625" OffsetY="0.015625" OffsetZ="0.9716187" OffsetW="0.1434937" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_01" posX="-286.8513" posY="-0.3129578" posZ="-122.2542" rotX="0" rotY="294.7565" rotZ="0" scaleX="0.1911038" scaleY="0.1911038" scaleZ="0.1911038">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_01" LightmapIndex="0" OffsetX="0.01171875" OffsetY="0.01171875" OffsetZ="0.8808136" OffsetW="0.2558136" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_01" posX="-277.8674" posY="-0.6328316" posZ="-138.5373" rotX="0" rotY="200.9527" rotZ="0" scaleX="0.5323188" scaleY="0.5323188" scaleZ="0.5323188">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_01" LightmapIndex="0" OffsetX="0.03222656" OffsetY="0.03222656" OffsetZ="0.8397179" OffsetW="0.4315147" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_01" posX="-312.0846" posY="-0.468065" posZ="-71.2507" rotX="0" rotY="0" rotZ="0" scaleX="0.362148" scaleY="0.362148" scaleZ="0.362148">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_01" LightmapIndex="0" OffsetX="0.02148438" OffsetY="0.02148438" OffsetZ="0.9764786" OffsetW="0.2674942" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_01" posX="-446.282" posY="0" posZ="-76.84982" rotX="0" rotY="5.506144" rotZ="0" scaleX="1.313499" scaleY="1.57784" scaleZ="1.313499">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_01" LightmapIndex="0" OffsetX="0.08300781" OffsetY="0.08300781" OffsetZ="0.8248711" OffsetW="0.159832" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_01" posX="-257.6419" posY="0" posZ="96.55753" rotX="0" rotY="0" rotZ="0" scaleX="0.341559" scaleY="0.341559" scaleZ="0.341559">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_01" LightmapIndex="0" OffsetX="0.02050781" OffsetY="0.02050781" OffsetZ="0.977459" OffsetW="0.2294121" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_01" posX="-275.7545" posY="-0.4680653" posZ="-119.1617" rotX="0" rotY="0" rotZ="0" scaleX="0.3621484" scaleY="0.3621484" scaleZ="0.3621484">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_01" LightmapIndex="0" OffsetX="0.02148438" OffsetY="0.02148438" OffsetZ="0.8807755" OffsetW="0.2352676" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_01" posX="-232.5728" posY="-5.539408" posZ="42.35128" rotX="0" rotY="1.121268" rotZ="0" scaleX="0.6534301" scaleY="0.6534301" scaleZ="0.6534301">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_01" LightmapIndex="0" OffsetX="0.04003906" OffsetY="0.04003907" OffsetZ="0.7430077" OffsetW="0.4041405" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_02" posX="248.7686" posY="0" posZ="-165.9416" rotX="0" rotY="272.3583" rotZ="0" scaleX="0.7260166" scaleY="0.7260166" scaleZ="0.7260166">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_02" LightmapIndex="0" OffsetX="0.04394531" OffsetY="0.04394532" OffsetZ="0.6160393" OffsetW="0.3797112" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_02" posX="144.7127" posY="0" posZ="200.3716" rotX="0" rotY="267.3705" rotZ="0" scaleX="0.6782271" scaleY="0.6782271" scaleZ="0.6782271">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_02" LightmapIndex="0" OffsetX="0.04101563" OffsetY="0.04101563" OffsetZ="0.7889023" OffsetW="0.3953476" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_02" posX="245.8047" posY="0" posZ="-119.491" rotX="0" rotY="180.0013" rotZ="0" scaleX="0.817745" scaleY="0.817745" scaleZ="0.817745">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_02" LightmapIndex="0" OffsetX="0.04980469" OffsetY="0.04980468" OffsetZ="0.788868" OffsetW="0.3562508" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_02" posX="-34.38103" posY="-0.318718" posZ="-179.7376" rotX="359.3421" rotY="174.9322" rotZ="356.9335" scaleX="0.8852128" scaleY="0.8852128" scaleZ="0.8852128">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_02" LightmapIndex="0" OffsetX="0.05371094" OffsetY="0.05371094" OffsetZ="0.8757668" OffsetW="0.2673683" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_02" posX="266.2111" posY="24.22518" posZ="-135.7636" rotX="0" rotY="256.7476" rotZ="0" scaleX="0.8276393" scaleY="0.8276393" scaleZ="0.8276393">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_02" LightmapIndex="0" OffsetX="0.04980469" OffsetY="0.04980468" OffsetZ="0.788868" OffsetW="0.3171883" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_14_02" posX="217.4255" posY="18.55824" posZ="-274.0025" rotX="0" rotY="283.6439" rotZ="0" scaleX="0.8304258" scaleY="0.8304258" scaleZ="0.8304258">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_14_02" LightmapIndex="0" OffsetX="0.05078125" OffsetY="0.05078125" OffsetZ="0.6160126" OffsetW="0.4636688" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_01" posX="182.3343" posY="0" posZ="206.066" rotX="0" rotY="231.2204" rotZ="0" scaleX="1.05" scaleY="1.05" scaleZ="1.05">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_01" LightmapIndex="0" OffsetX="0.04296875" OffsetY="0.04296875" OffsetZ="0.7888947" OffsetW="0.4636993" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_01" posX="-27.99623" posY="9.897655" posZ="-171.125" rotX="0" rotY="0" rotZ="0" scaleX="0.8643721" scaleY="0.8643721" scaleZ="0.8643721">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_01" LightmapIndex="0" OffsetX="0.03515625" OffsetY="0.03515625" OffsetZ="0.911972" OffsetW="0.3690033" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_01" posX="-21.06983" posY="0" posZ="-189.2197" rotX="0" rotY="0" rotZ="0" scaleX="1.108284" scaleY="1.108284" scaleZ="1.108284">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_01" LightmapIndex="0" OffsetX="0.04492188" OffsetY="0.04492188" OffsetZ="0.7429886" OffsetW="0.4705276" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_01" posX="271.512" posY="0" posZ="-134.2308" rotX="0" rotY="0" rotZ="0" scaleX="2.535749" scaleY="2.535749" scaleZ="2.535749">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_01" LightmapIndex="0" OffsetX="0.1044922" OffsetY="0.1044922" OffsetZ="0.8658028" OffsetW="0.0757637" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_01" posX="447.1192" posY="0" posZ="-90.32704" rotX="0" rotY="0" rotZ="0" scaleX="1.094142" scaleY="1.094142" scaleZ="1.094142">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_01" LightmapIndex="0" OffsetX="0.04492188" OffsetY="0.04492188" OffsetZ="0.7429886" OffsetW="0.4412308" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_01" posX="221.5086" posY="0" posZ="-276.9676" rotX="0" rotY="168.1756" rotZ="0" scaleX="1.919565" scaleY="1.919566" scaleZ="1.919565">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_01" LightmapIndex="0" OffsetX="0.07910156" OffsetY="0.07910156" OffsetZ="0.7428551" OffsetW="0.2672691" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_01" posX="445.657" posY="0" posZ="10.37234" rotX="0" rotY="0" rotZ="0" scaleX="0.5644218" scaleY="1.515365" scaleZ="0.5644218">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_01" LightmapIndex="0" OffsetX="0.03222656" OffsetY="0.03222656" OffsetZ="0.9647179" OffsetW="0.3426476" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_01" posX="371.1541" posY="0" posZ="-90.07211" rotX="0" rotY="267.9799" rotZ="0" scaleX="0.908213" scaleY="1.170841" scaleZ="0.908213">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_01" LightmapIndex="0" OffsetX="0.04003906" OffsetY="0.04003906" OffsetZ="0.8396873" OffsetW="0.342617" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_01" posX="378.6246" posY="-1.6772" posZ="-62.72965" rotX="0" rotY="0" rotZ="0" scaleX="0.5750338" scaleY="1.094142" scaleZ="1.094142">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_01" LightmapIndex="0" OffsetX="0.03613281" OffsetY="0.03613281" OffsetZ="0.8748589" OffsetW="0.3689995" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_02" posX="-302.4429" posY="0" posZ="-59.11249" rotX="0" rotY="27.84864" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_02" LightmapIndex="0" OffsetX="0.04101563" OffsetY="0.04101563" OffsetZ="0.8806992" OffsetW="0.3426132" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_02" posX="-238.9944" posY="0" posZ="168.9481" rotX="0" rotY="169.3979" rotZ="0" scaleX="1.078284" scaleY="1.078284" scaleZ="1.078284">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_02" LightmapIndex="0" OffsetX="0.04394531" OffsetY="0.04394531" OffsetZ="0.9441643" OffsetW="0.3172112" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_02" posX="-283.2685" posY="0" posZ="234.2581" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_02" LightmapIndex="0" OffsetX="0.04101563" OffsetY="0.04101563" OffsetZ="0.9226913" OffsetW="0.3426132" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_02" posX="-363.3118" posY="0" posZ="196.1728" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="2.296978" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_02" LightmapIndex="0" OffsetX="0.0546875" OffsetY="0.0546875" OffsetZ="0.8249817" OffsetW="0.2351379" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_02" posX="-426.8458" posY="0" posZ="183.2361" rotX="0" rotY="232.2834" rotZ="0" scaleX="1.168922" scaleY="3.253181" scaleZ="1.168922">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_02" LightmapIndex="0" OffsetX="0.06835938" OffsetY="0.06835938" OffsetZ="0.9079361" OffsetW="0.2292252" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_15_02" posX="-447.668" posY="-0.5778198" posZ="104.2398" rotX="0" rotY="232.2835" rotZ="0" scaleX="0.8739328" scaleY="2.432206" scaleZ="0.873933">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_15_02" LightmapIndex="0" OffsetX="0.05078125" OffsetY="0.05078125" OffsetZ="0.8396454" OffsetW="0.3171844" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_16" posX="146.141" posY="0" posZ="219.716" rotX="0" rotY="265.8864" rotZ="0" scaleX="0.5582842" scaleY="0.4521239" scaleZ="0.5582842">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_16" LightmapIndex="0" OffsetX="0.04492188" OffsetY="0.04492188" OffsetZ="0.9304886" OffsetW="0.2674026" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_16" posX="159.3656" posY="0" posZ="202.5309" rotX="0" rotY="265.8864" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_16" LightmapIndex="0" OffsetX="0.08886719" OffsetY="0.08886719" OffsetZ="0.5269966" OffsetW="0.4166451" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_16" posX="199.2305" posY="0" posZ="144.8342" rotX="0" rotY="265.8864" rotZ="0" scaleX="0.7524706" scaleY="0.5765132" scaleZ="0.7524706">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_16" LightmapIndex="0" OffsetX="0.05957031" OffsetY="0.05957031" OffsetZ="0.6706657" OffsetW="0.3396111" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_16" posX="170.3095" posY="0" posZ="225.1066" rotX="0" rotY="345.0117" rotZ="0" scaleX="0.558284" scaleY="0.452124" scaleZ="0.558284">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_16" LightmapIndex="0" OffsetX="0.04492188" OffsetY="0.04492188" OffsetZ="0.7429886" OffsetW="0.3172073" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_16" posX="189.5151" posY="0" posZ="132.2873" rotX="0" rotY="265.8864" rotZ="0" scaleX="0.3505445" scaleY="0.3505445" scaleZ="0.3505445">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_16" LightmapIndex="0" OffsetX="0.03125" OffsetY="0.03125" OffsetZ="0.8397217" OffsetW="0.4002686" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_17" posX="70.12692" posY="0.071558" posZ="129.531" rotX="0" rotY="338.0524" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_17/Cylinder044" LightmapIndex="0" OffsetX="0.01269531" OffsetY="0.01269531" OffsetZ="0.8886223" OffsetW="0.4364738" />
+        <LightMap Name="rc_01_budA_17/Plane010" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="rc_01_budA_17/Plane011" LightmapIndex="0" OffsetX="0.01269531" OffsetY="0.01269531" OffsetZ="0.8749504" OffsetW="0.4638176" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_17" posX="-407.2171" posY="-1.841461" posZ="101.4458" rotX="0" rotY="330.1281" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_17/Cylinder044" LightmapIndex="0" OffsetX="0.01269531" OffsetY="0.01269531" OffsetZ="0.8895988" OffsetW="0.4218254" />
+        <LightMap Name="rc_01_budA_17/Plane010" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="rc_01_budA_17/Plane011" LightmapIndex="0" OffsetX="0.01269531" OffsetY="0.01269531" OffsetZ="0.8886223" OffsetW="0.4501457" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_budA_17" posX="-320.9012" posY="-0.4220428" posZ="-117.2" rotX="0" rotY="251.3572" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_budA_17/Cylinder044" LightmapIndex="0" OffsetX="0.01269531" OffsetY="0.01269531" OffsetZ="0.8749504" OffsetW="0.4364738" />
+        <LightMap Name="rc_01_budA_17/Plane010" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+        <LightMap Name="rc_01_budA_17/Plane011" LightmapIndex="0" OffsetX="0.01269531" OffsetY="0.01269531" OffsetZ="0.8886223" OffsetW="0.4638176" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_01" posX="-42.23606" posY="3.374693E-05" posZ="105.8025" rotX="0" rotY="272.0033" rotZ="0" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_01" LightmapIndex="0" OffsetX="0.006835938" OffsetY="0.006835938" OffsetZ="0.9599342" OffsetW="0.1493874" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_01" posX="-111.6106" posY="-0.06064276" posZ="106.2472" rotX="-1.067217E-07" rotY="95.75038" rotZ="357.1233" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_01" LightmapIndex="0" OffsetX="0.006835938" OffsetY="0.006835938" OffsetZ="0.6611061" OffsetW="0.3876686" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_01" posX="-262.5569" posY="0.07190669" posZ="-223.0809" rotX="-4.268868E-07" rotY="125.7799" rotZ="356.1852" scaleX="1.394142" scaleY="1.394142" scaleZ="1.394142">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_01" LightmapIndex="0" OffsetX="0.006835938" OffsetY="0.006835938" OffsetZ="0.9882545" OffsetW="0.1513405" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_01" posX="-413.8719" posY="2.04866E-05" posZ="66.61814" rotX="0" rotY="209.6" rotZ="0" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_01" LightmapIndex="0" OffsetX="0.006835938" OffsetY="0.006835938" OffsetZ="0.9599342" OffsetW="0.1415749" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_01" posX="-397.1167" posY="0.04631782" posZ="-17.92259" rotX="359.7177" rotY="144.5523" rotZ="9.360162" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_01" LightmapIndex="0" OffsetX="0.006835938" OffsetY="0.006835938" OffsetZ="0.9882545" OffsetW="0.143528" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_01" posX="-274.866" posY="0.07806347" posZ="-214.096" rotX="0.2456083" rotY="129.4658" rotZ="356.1931" scaleX="1.394142" scaleY="1.394142" scaleZ="1.394142">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_01" LightmapIndex="0" OffsetX="0.006835938" OffsetY="0.006835938" OffsetZ="0.6611061" OffsetW="0.3798561" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_02" posX="39.73528" posY="1.47728" posZ="105.4954" rotX="0" rotY="86.19526" rotZ="0" scaleX="1.669742" scaleY="1.669742" scaleZ="1.669742">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_02" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.8896255" OffsetW="0.1523209" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="214.7609" posY="-0.1604274" posZ="164.586" rotX="3.343309" rotY="254.021" rotZ="8.328657" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.8300629" OffsetW="0.2626801" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="-192.8617" posY="4.030486E-05" posZ="139.9457" rotX="0" rotY="93.96336" rotZ="0" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.8495941" OffsetW="0.2626801" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="-121.995" posY="4.130074E-05" posZ="138.4557" rotX="0" rotY="268.0894" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.002929688" OffsetY="0.002929688" OffsetZ="0.9951057" OffsetW="0.03514481" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="125.2352" posY="4.588999E-05" posZ="129.2597" rotX="0" rotY="257.5406" rotZ="8.650689" scaleX="1.9" scaleY="1.9" scaleZ="1.9">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.9863052" OffsetW="0.2118912" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="397.3022" posY="2.573101E-05" posZ="84.8197" rotX="0" rotY="0" rotZ="6.210503" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.9941254" OffsetW="0.1093597" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="-408.8168" posY="-0.01067331" posZ="-2.374624" rotX="4.268868E-07" rotY="142.6176" rotZ="4.812488" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.9941254" OffsetW="0.1044769" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="391.6149" posY="-0.03349851" posZ="139.5513" rotX="0.7203028" rotY="343.0002" rotZ="4.504646" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.9941254" OffsetW="0.09959412" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="-385.4346" posY="3.128377E-05" posZ="101.5598" rotX="359.9942" rotY="230.6504" rotZ="11.73814" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.8447113" OffsetW="0.2626801" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="244.5235" posY="6.278972E-05" posZ="213.5773" rotX="-0.001302859" rotY="71.64542" rotZ="7.649879" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.8544769" OffsetW="0.2626801" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="-420.1883" posY="1.187162E-05" posZ="39.18721" rotX="359.9886" rotY="178.6015" rotZ="9.063748" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.8398285" OffsetW="0.2626801" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="308.4435" posY="-0.129102" posZ="187.7189" rotX="0" rotY="270.6326" rotZ="12.70858" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.8251801" OffsetW="0.2626801" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="-224.7321" posY="-6.947573E-05" posZ="-237.7079" rotX="0" rotY="100.2886" rotZ="0" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.8349457" OffsetW="0.2626801" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="93.16163" posY="0.03736508" posZ="156.1892" rotX="-1.707547E-06" rotY="51.34731" rotZ="8.650687" scaleX="1.9" scaleY="1.9" scaleZ="1.9">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.9863052" OffsetW="0.2187271" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_03_03" posX="368.6281" posY="-0.184123" posZ="170.9416" rotX="-1.067217E-06" rotY="307.9885" rotZ="8.959248" scaleX="1.4" scaleY="1.4" scaleZ="1.4">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_03_03" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.9941254" OffsetW="0.1142426" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_01" posX="396.121" posY="0" posZ="-14.51353" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3583946" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9960899" OffsetW="0.1572227" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_01" posX="392.3904" posY="-0.2162417" posZ="137.1802" rotX="0" rotY="0" rotZ="5.862737" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3623009" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9960899" OffsetW="0.1474571" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_01" posX="219.751" posY="-0.1170846" posZ="164.7609" rotX="0" rotY="264.585" rotZ="0" scaleX="1.843873" scaleY="1.843873" scaleZ="1.843873">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.002929688" OffsetY="0.002929688" OffsetZ="0.9951057" OffsetW="0.05174637" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9960899" OffsetW="0.1513634" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_01" posX="396.7439" posY="-0.1209609" posZ="81.28452" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3544884" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9960899" OffsetW="0.145504" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_01" posX="-42.97731" posY="7.095993" posZ="-181.0828" rotX="10.28683" rotY="237.5635" rotZ="15.69508" scaleX="5.683484" scaleY="5.683485" scaleZ="5.683484">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.009765625" OffsetY="0.009765625" OffsetZ="0.8525009" OffsetW="0.1483994" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.004882813" OffsetY="0.004882813" OffsetZ="0.993145" OffsetW="0.2050591" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_01" posX="386.5281" posY="5.840426E-05" posZ="196.9243" rotX="0" rotY="77.89468" rotZ="0" scaleX="2.131544" scaleY="2.131544" scaleZ="2.131544">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.9033051" OffsetW="0.2353363" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951096" OffsetW="0.0956955" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_01" posX="246.3876" posY="6.375252E-05" posZ="212.9836" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3564415" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9960899" OffsetW="0.1494102" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_01" posX="396.6048" posY="-0.07371627" posZ="43.90885" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3603477" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9960899" OffsetW="0.1533165" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_01" posX="67.056" posY="0.006151753" posZ="148.9588" rotX="0" rotY="0" rotZ="0" scaleX="1.765898" scaleY="1.765898" scaleZ="1.765898">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.002929688" OffsetY="0.002929688" OffsetZ="0.9951057" OffsetW="0.04686356" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9960899" OffsetW="0.1552696" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_01" posX="75.34769" posY="0.006150603" posZ="163.4726" rotX="0" rotY="309.0551" rotZ="0" scaleX="2.420664" scaleY="2.420664" scaleZ="2.420664">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.9033051" OffsetW="0.2402191" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.994133" OffsetW="0.119133" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="-108.782" posY="-10.0173" posZ="-186.0885" rotX="0" rotY="0" rotZ="0" scaleX="5.239715" scaleY="5.239715" scaleZ="5.239715">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.01367188" OffsetY="0.01367188" OffsetZ="0.9638138" OffsetW="0.3690872" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="-88.63695" posY="-11.48457" posZ="-159.2267" rotX="0" rotY="306.8388" rotZ="0" scaleX="8.408306" scaleY="8.408306" scaleZ="8.408306">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.02246094" OffsetY="0.02246094" OffsetZ="0.9715919" OffsetW="0.07608414" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="198.5638" posY="-0.5133498" posZ="231.9798" rotX="0" rotY="244.7099" rotZ="0" scaleX="1.940086" scaleY="1.940086" scaleZ="1.940086">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.004882812" OffsetY="0.004882813" OffsetZ="0.993145" OffsetW="0.1982231" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="355.9905" posY="-8.55617" posZ="160.5585" rotX="0" rotY="0" rotZ="0" scaleX="2.360071" scaleY="2.360071" scaleZ="2.360071">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.9032974" OffsetW="0.1523209" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="192.5984" posY="10.24015" posZ="208.5821" rotX="0" rotY="219.7966" rotZ="0" scaleX="2.351483" scaleY="2.351483" scaleZ="2.351483">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.8964615" OffsetW="0.1523209" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="114.0785" posY="5.051719E-05" posZ="229.6185" rotX="0" rotY="0" rotZ="0" scaleX="3.678738" scaleY="3.678738" scaleZ="3.678738">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.009765624" OffsetY="0.009765625" OffsetZ="0.8417587" OffsetW="0.1483994" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="201.2553" posY="5.693258E-05" posZ="246.2794" rotX="0" rotY="0" rotZ="0" scaleX="4.910045" scaleY="4.910045" scaleZ="4.910045">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.01269531" OffsetY="0.01269531" OffsetZ="0.8749504" OffsetW="0.4501457" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="-171.2786" posY="-15.83774" posZ="72.88318" rotX="0" rotY="100.3048" rotZ="0" scaleX="8.66001" scaleY="8.660009" scaleZ="8.660009">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.0234375" OffsetY="0.0234375" OffsetZ="0.9706116" OffsetW="0.0272522" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="339.1864" posY="-8.140385" posZ="162.724" rotX="0" rotY="217.65" rotZ="0" scaleX="4.55852" scaleY="4.55852" scaleZ="4.55852">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.01171875" OffsetY="0.01171875" OffsetZ="0.9862823" OffsetW="0.1855011" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="126.5941" posY="5.051719E-05" posZ="209.2257" rotX="0" rotY="155.1212" rotZ="0" scaleX="2.673347" scaleY="2.673347" scaleZ="2.673347">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.006835938" OffsetY="0.006835938" OffsetZ="0.6611061" OffsetW="0.3954811" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="383.5748" posY="2.187281E-05" posZ="69.63753" rotX="0" rotY="58.36129" rotZ="0" scaleX="1.921585" scaleY="1.921585" scaleZ="1.921585">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.004882812" OffsetY="0.004882813" OffsetZ="0.9540825" OffsetW="0.1523247" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="429.0114" posY="-0.3102228" posZ="68.10448" rotX="0" rotY="141.1187" rotZ="0" scaleX="1.160831" scaleY="1.160831" scaleZ="1.160831">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.002929688" OffsetY="0.002929688" OffsetZ="0.9951057" OffsetW="0.02733231" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="-180.1968" posY="-15.83774" posZ="191.6329" rotX="0" rotY="187.3454" rotZ="0" scaleX="8.66001" scaleY="8.660009" scaleZ="8.660009">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.0234375" OffsetY="0.0234375" OffsetZ="0.9706116" OffsetW="0.05166626" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="214.2183" posY="5.196779E-05" posZ="153.2344" rotX="0" rotY="292.5909" rotZ="0" scaleX="4.479342" scaleY="4.479342" scaleZ="4.479342">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.01171875" OffsetY="0.01171875" OffsetZ="0.9862823" OffsetW="0.1728058" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="-173.7312" posY="-15.83774" posZ="218.6347" rotX="0" rotY="239.2958" rotZ="0" scaleX="4.488134" scaleY="4.488132" scaleZ="4.488132">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.01171875" OffsetY="0.01171875" OffsetZ="0.9862823" OffsetW="0.1601105" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_02" posX="-42.72334" posY="-10.0173" posZ="-297.6578" rotX="0" rotY="160.1654" rotZ="0" scaleX="9.710697" scaleY="9.710696" scaleZ="9.710697">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_02" LightmapIndex="0" OffsetX="0.02636719" OffsetY="0.02636719" OffsetZ="0.9706001" OffsetW="-0.0001029968" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_03" posX="-416.6234" posY="-0.5671289" posZ="50.65775" rotX="351.9529" rotY="325.0324" rotZ="348.6811" scaleX="2.108115" scaleY="2.108115" scaleZ="2.108115">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.002929688" OffsetY="0.002929688" OffsetZ="0.9951057" OffsetW="0.04295731" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951096" OffsetW="0.09276581" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_03" posX="-379.6381" posY="-1.252819" posZ="99.22997" rotX="351.0668" rotY="32.45649" rotZ="354.3598" scaleX="2.271626" scaleY="2.271626" scaleZ="2.271626">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.8740082" OffsetW="0.2626801" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951096" OffsetW="0.08983612" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_03" posX="-380.5554" posY="4.065281E-05" posZ="139.6319" rotX="0" rotY="0" rotZ="0" scaleX="2.366584" scaleY="2.366584" scaleZ="2.366584">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.8691254" OffsetW="0.2626801" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951096" OffsetW="0.08397675" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_03" posX="-446.664" posY="2.148488E-05" posZ="69.68983" rotX="0" rotY="319.2922" rotZ="0" scaleX="1.448416" scaleY="1.448416" scaleZ="1.448416">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951096" OffsetW="0.1249924" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9951134" OffsetW="0.1396446" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_03" posX="-373.9405" posY="-2.215377E-05" posZ="-77.25134" rotX="0" rotY="230.686" rotZ="0" scaleX="1.793509" scaleY="1.793509" scaleZ="1.793509">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.002929688" OffsetY="0.002929688" OffsetZ="0.9951057" OffsetW="0.03905106" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9970665" OffsetW="0.1396446" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_03" posX="-295.1827" posY="-4.543307E-05" posZ="-145.0557" rotX="0" rotY="24.49054" rotZ="0" scaleX="2.33943" scaleY="2.33943" scaleZ="2.33943">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.8642426" OffsetW="0.2626801" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951096" OffsetW="0.08690643" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_03" posX="-326.5214" posY="-2.194806E-05" posZ="-69.2043" rotX="0" rotY="179.3517" rotZ="0" scaleX="1.447082" scaleY="1.447082" scaleZ="1.447082">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951096" OffsetW="0.1279221" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9970665" OffsetW="0.1376915" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_03" posX="-429.3041" posY="-0.1064098" posZ="102.9734" rotX="0" rotY="310.4007" rotZ="0" scaleX="1.547074" scaleY="1.547074" scaleZ="1.547074">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951096" OffsetW="0.1220627" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9960899" OffsetW="0.1435509" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_obj_04_03" posX="-245.8809" posY="3.326963E-05" posZ="89.2291" rotX="0" rotY="314.705" rotZ="0" scaleX="3.329206" scaleY="3.329206" scaleZ="3.329206">
+      <LightMaps>
+        <LightMap Name="rc_01_obj_04_01/______020" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.7314224" OffsetW="0.3398209" />
+        <LightMap Name="rc_01_obj_04_01/______021" LightmapIndex="0" OffsetX="0.002929688" OffsetY="0.002929688" OffsetZ="0.9951057" OffsetW="0.03123856" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-199.3104" posY="-1.442869" posZ="-255.5786" rotX="0" rotY="0" rotZ="0" scaleX="1.068103" scaleY="1.068103" scaleZ="1.068103">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-445.8477" posY="-2.393088" posZ="-1.176437" rotX="0" rotY="0" rotZ="0" scaleX="1.244994" scaleY="1.244994" scaleZ="1.244994">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-254.5145" posY="18.78089" posZ="80.33557" rotX="0" rotY="0" rotZ="0" scaleX="0.5498974" scaleY="0.5498974" scaleZ="0.5498974">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="387.9074" posY="0.5597725" posZ="-10.29274" rotX="359.0908" rotY="0.9401002" rotZ="351.9111" scaleX="2.034159" scaleY="2.034158" scaleZ="2.034158">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="185.8102" posY="-0.8739925" posZ="141.169" rotX="0" rotY="0" rotZ="0" scaleX="0.6687758" scaleY="0.6687758" scaleZ="0.6687758">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="435.9226" posY="1.608595" posZ="52.70375" rotX="357.9404" rotY="1.204812" rotZ="350.0677" scaleX="1.497164" scaleY="1.497164" scaleZ="1.497163">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-94.78965" posY="-0.465703" posZ="247.8579" rotX="0" rotY="0" rotZ="0" scaleX="1.824151" scaleY="1.824151" scaleZ="1.824151">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-203.5361" posY="-10.97779" posZ="-31.2512" rotX="359.0378" rotY="0.07093765" rotZ="3.30481" scaleX="1.430339" scaleY="1.430339" scaleZ="1.430339">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-17.2039" posY="-2.987134" posZ="200.3834" rotX="0" rotY="0" rotZ="0" scaleX="1.824151" scaleY="1.824151" scaleZ="1.824151">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-448.4102" posY="-1.151032" posZ="71.42505" rotX="0" rotY="0" rotZ="0" scaleX="0.7005768" scaleY="0.7005768" scaleZ="0.7005768">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="120.4192" posY="-1.20424" posZ="96.40712" rotX="0" rotY="0" rotZ="0" scaleX="0.9158579" scaleY="0.9158579" scaleZ="0.9158579">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-282.7798" posY="-1.235431" posZ="-106.1214" rotX="0" rotY="0" rotZ="0" scaleX="0.8976876" scaleY="0.8976876" scaleZ="0.8976876">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="28.40836" posY="-2.987134" posZ="227.1083" rotX="0" rotY="0" rotZ="0" scaleX="1.629262" scaleY="1.629262" scaleZ="1.629262">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="438.2128" posY="9.613153" posZ="-98.9502" rotX="0" rotY="0" rotZ="350.933" scaleX="0.5128523" scaleY="0.5128524" scaleZ="0.5128523">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="386.6015" posY="2.339994" posZ="-32.91171" rotX="358.8118" rotY="0.5464498" rotZ="13.17186" scaleX="1.057072" scaleY="1.057072" scaleZ="1.057072">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-276.7767" posY="7.370729" posZ="227.0281" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-283.0151" posY="-2.850927" posZ="-229.1665" rotX="0" rotY="0" rotZ="0" scaleX="1.472813" scaleY="1.472813" scaleZ="1.472813">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="390.9243" posY="3.956735" posZ="-112.9211" rotX="359.181" rotY="1.019664" rotZ="346.6391" scaleX="1.083813" scaleY="1.083812" scaleZ="1.083812">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="435.3416" posY="3.160441" posZ="-55.12346" rotX="0" rotY="0" rotZ="15.39202" scaleX="0.7734972" scaleY="0.7734972" scaleZ="0.7734972">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="70.95184" posY="-2.12816" posZ="91.6898" rotX="0" rotY="0" rotZ="0" scaleX="1.234326" scaleY="1.234326" scaleZ="1.234326">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="68.99596" posY="-3.430432" posZ="-149.3584" rotX="0" rotY="0" rotZ="0" scaleX="2.42373" scaleY="2.42373" scaleZ="2.42373">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="439.7306" posY="12.69525" posZ="9.702731" rotX="357.6427" rotY="0.3691317" rotZ="11.50051" scaleX="1.025772" scaleY="1.025772" scaleZ="1.025772">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="391.4921" posY="0.497839" posZ="44.57461" rotX="359.0635" rotY="0.912941" rotZ="353.5973" scaleX="1.058135" scaleY="1.058135" scaleZ="1.058134">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="381.5844" posY="-3.697718" posZ="68.28999" rotX="358.8537" rotY="0.6296549" rotZ="9.089067" scaleX="1.739903" scaleY="1.739903" scaleZ="1.739902">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="199.3726" posY="-4.387435" posZ="90.3613" rotX="0" rotY="0" rotZ="0" scaleX="2.484356" scaleY="2.484356" scaleZ="2.484356">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="11.32255" posY="-2.987134" posZ="266.2024" rotX="0" rotY="0" rotZ="0" scaleX="2.524709" scaleY="2.524709" scaleZ="2.524709">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="382.2371" posY="7.451259" posZ="-58.03468" rotX="359.181" rotY="1.019664" rotZ="346.6391" scaleX="0.8805454" scaleY="0.880545" scaleZ="0.8805448">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-416.2042" posY="-1.151032" posZ="162.5755" rotX="0" rotY="0" rotZ="0" scaleX="0.7698466" scaleY="0.7698466" scaleZ="0.7698466">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="276.3621" posY="6.500266E-05" posZ="219.3053" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-405.6218" posY="-1.240984" posZ="-55.65605" rotX="0" rotY="0" rotZ="0" scaleX="0.6958579" scaleY="0.6958579" scaleZ="0.6958579">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-45.0116" posY="-2.598607" posZ="56.35453" rotX="0" rotY="0" rotZ="0" scaleX="2.222865" scaleY="2.222865" scaleZ="2.222865">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="135.5438" posY="-3.430432" posZ="-166.9462" rotX="0" rotY="0" rotZ="0" scaleX="2.42373" scaleY="2.42373" scaleZ="2.42373">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-431.0051" posY="-1.151032" posZ="102.8902" rotX="0" rotY="0" rotZ="0" scaleX="0.8550262" scaleY="0.8550262" scaleZ="0.8550262">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-300.6987" posY="-1.297315" posZ="-212.6154" rotX="0" rotY="0" rotZ="0" scaleX="1.218929" scaleY="1.218929" scaleZ="1.218929">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-252.1387" posY="-1.442869" posZ="-241.3502" rotX="0" rotY="0" rotZ="0" scaleX="1.068103" scaleY="1.068103" scaleZ="1.068103">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-206.7908" posY="-10.88664" posZ="-11.76103" rotX="359.0788" rotY="0.2866666" rotZ="350.2361" scaleX="1.95612" scaleY="1.95612" scaleZ="1.95612">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="164.3611" posY="-3.9726" posZ="-186.6188" rotX="0" rotY="0" rotZ="0" scaleX="1.572666" scaleY="1.572666" scaleZ="1.572666">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="167.8334" posY="-3.727352" posZ="246.0441" rotX="0" rotY="0" rotZ="0" scaleX="1.975459" scaleY="1.975459" scaleZ="1.975459">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="215.6169" posY="19.15813" posZ="-256.6207" rotX="0" rotY="0" rotZ="0" scaleX="1.572666" scaleY="1.572666" scaleZ="1.572666">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="70.07412" posY="-2.987134" posZ="267.6944" rotX="0" rotY="0" rotZ="0" scaleX="2.595857" scaleY="2.595857" scaleZ="2.595857">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-66.89799" posY="-6.483372E-05" posZ="-111.9007" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="186.9984" posY="8.198032" posZ="200.066" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="433.5562" posY="9.119584" posZ="-91.24164" rotX="0" rotY="0" rotZ="12.38568" scaleX="1.000509" scaleY="1.000509" scaleZ="1.000509">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="194.8076" posY="0.4005775" posZ="-314.4519" rotX="0" rotY="0" rotZ="0" scaleX="2.795894" scaleY="2.795894" scaleZ="2.795894">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-205.5721" posY="-1.442869" posZ="-277.394" rotX="0" rotY="0" rotZ="0" scaleX="1.388175" scaleY="1.388175" scaleZ="1.388175">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-267.08" posY="-4.544027" posZ="-262.6389" rotX="0" rotY="0" rotZ="0" scaleX="3.005729" scaleY="3.005729" scaleZ="3.005729">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-287.5374" posY="-2.979944" posZ="-83.08882" rotX="0" rotY="0" rotZ="0" scaleX="1.52776" scaleY="1.52776" scaleZ="1.52776">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-253.1021" posY="4.208105" posZ="290.4274" rotX="359.041" rotY="359.8945" rotZ="13.79789" scaleX="1.94692" scaleY="1.946919" scaleZ="1.946919">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-447.7917" posY="-0.3720205" posZ="66.07815" rotX="0" rotY="0" rotZ="0" scaleX="0.3502884" scaleY="0.3502884" scaleZ="0.3502884">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="435.7159" posY="2.525097" posZ="-22.42957" rotX="352.7145" rotY="1.11799" rotZ="352.5789" scaleX="2.045706" scaleY="2.045706" scaleZ="2.045706">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-196.248" posY="-11.53947" posZ="-94.17353" rotX="359.0364" rotY="0.04819028" rotZ="4.658327" scaleX="2.33828" scaleY="2.33828" scaleZ="2.33828">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="26.51044" posY="-2.598607" posZ="45.40749" rotX="0" rotY="0" rotZ="0" scaleX="1.967137" scaleY="1.967137" scaleZ="1.967137">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_03" posX="-262.0161" posY="0.7511578" posZ="263.5646" rotX="359.0543" rotY="0.190892" rotZ="356.1096" scaleX="2.630972" scaleY="2.630972" scaleZ="2.630972">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_03" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_04" posX="143.2361" posY="3.840886" posZ="207.4956" rotX="0" rotY="0" rotZ="0" scaleX="0.5675737" scaleY="0.5675737" scaleZ="0.5675737">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_04/rc_01_plt_03_01" LightmapIndex="-1" OffsetX="1" OffsetY="1" OffsetZ="0" OffsetW="0" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_05" posX="-24.42655" posY="9.815122" posZ="-202.3606" rotX="0" rotY="198.6465" rotZ="0" scaleX="0.4788379" scaleY="0.478838" scaleZ="0.4788379">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_05" LightmapIndex="0" OffsetX="0.01269531" OffsetY="0.01269531" OffsetZ="0.7890625" OffsetW="0.4912109" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_05" posX="-225.1993" posY="0.8132112" posZ="35.48598" rotX="0" rotY="106.1779" rotZ="0" scaleX="0.4908295" scaleY="0.4908295" scaleZ="0.4908295">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_05" LightmapIndex="0" OffsetX="0.01367188" OffsetY="0.01367188" OffsetZ="0.875" OffsetW="0.421875" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_05" posX="-292.2685" posY="10.88086" posZ="-149.2343" rotX="0" rotY="289.4627" rotZ="0" scaleX="0.5942352" scaleY="0.5942352" scaleZ="0.5942352">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_05" LightmapIndex="0" OffsetX="0.01660156" OffsetY="0.01660156" OffsetZ="0.7177734" OffsetW="0.4873047" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_05" posX="-354.5862" posY="20.80957" posZ="190.4338" rotX="0" rotY="146.3166" rotZ="0" scaleX="0.5285144" scaleY="0.5285144" scaleZ="0.5285145">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_05" LightmapIndex="0" OffsetX="0.01464844" OffsetY="0.01464844" OffsetZ="0.9482422" OffsetW="0.3691406" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="396.1454" posY="-2.723932E-05" posZ="-13.67316" rotX="0" rotY="328.9278" rotZ="0" scaleX="0.7228523" scaleY="0.7228522" scaleZ="0.7228522">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6279259" OffsetW="0.4150352" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="-417.1871" posY="-0.7902045" posZ="52.73905" rotX="0" rotY="327.1768" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6376915" OffsetW="0.4150352" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="200.6535" posY="-0.4943522" posZ="231.5817" rotX="0" rotY="296.7667" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3681602" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="389.2849" posY="-0.3650835" posZ="198.849" rotX="0" rotY="0" rotZ="0" scaleX="1.588087" scaleY="1.588087" scaleZ="1.588087">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9677658" OffsetW="0.1572189" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="427.7404" posY="-0.4559408" posZ="-113.6652" rotX="0" rotY="21.72898" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6318321" OffsetW="0.4150352" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="307.1296" posY="-0.4615613" posZ="188.6967" rotX="0" rotY="243.4166" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6259727" OffsetW="0.4150352" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="-242.8402" posY="-0.5222502" posZ="88.24191" rotX="0" rotY="78.08529" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6220665" OffsetW="0.4150352" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="-226.4534" posY="-0.3174117" posZ="-237.1865" rotX="0" rotY="330.0248" rotZ="0" scaleX="0.6986288" scaleY="0.6986288" scaleZ="0.6986288">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6396446" OffsetW="0.4150352" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="-265.248" posY="-0.6112779" posZ="-221.3637" rotX="0" rotY="0" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6415977" OffsetW="0.4150352" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="242.6174" posY="-9.435415E-05" posZ="-235.7743" rotX="0" rotY="301.5915" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.629879" OffsetW="0.4150352" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="-202.8459" posY="-0.3999391" posZ="138.1583" rotX="0" rotY="292.76" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6240196" OffsetW="0.4150352" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="-410.809" posY="-0.3123618" posZ="-1.139589" rotX="0" rotY="280.0323" rotZ="0" scaleX="0.5965739" scaleY="0.5965739" scaleZ="0.5965739">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3740196" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="-377.7246" posY="-1.221297" posZ="101.109" rotX="0" rotY="36.32244" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.364254" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="368.1645" posY="-0.5270796" posZ="172.6116" rotX="0" rotY="268.6297" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3720665" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="-452.1044" posY="-0.4716614" posZ="39.21108" rotX="0" rotY="47.57784" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3701134" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="409.4334" posY="-0.3198486" posZ="178.7401" rotX="0" rotY="0" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6337852" OffsetW="0.4150352" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="-122.8792" posY="-0.2052268" posZ="138.5123" rotX="0" rotY="126.3308" rotZ="0" scaleX="0.4330682" scaleY="0.4330682" scaleZ="0.4330682">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6357384" OffsetW="0.4150352" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="396.8966" posY="-0.2393948" posZ="45.00678" rotX="0" rotY="318.5499" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3662071" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_01" posX="-45.75643" posY="-0.4941792" posZ="106.9128" rotX="0" rotY="41.31003" rotZ="0" scaleX="0.7331628" scaleY="0.7331627" scaleZ="0.7331628">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_01" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3759727" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="-338.1933" posY="-0.1873044" posZ="-60.92811" rotX="0" rotY="255.42" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6508458" OffsetW="0.4148037" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="389.8582" posY="0.03873837" posZ="-209.65" rotX="0" rotY="260.8229" rotZ="0" scaleX="0.5757044" scaleY="0.5757045" scaleZ="0.5757043">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6684239" OffsetW="0.4226162" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="199.3134" posY="-0.3031062" posZ="197.8919" rotX="0" rotY="118.2631" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6674473" OffsetW="0.4138272" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="364.0688" posY="0.03886473" posZ="211.2893" rotX="0" rotY="346.7373" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6674473" OffsetW="0.403085" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="-35.89454" posY="-0.5881519" posZ="-203.4696" rotX="0" rotY="234.525" rotZ="0" scaleX="1.593605" scaleY="1.593605" scaleZ="1.593605">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.646418" OffsetW="0.4145684" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="-410.5206" posY="-0.3453971" posZ="-51.68196" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6674473" OffsetW="0.4099209" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="204.922" posY="-0.4229905" posZ="156.748" rotX="0" rotY="17.30287" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6527989" OffsetW="0.4148037" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="-13.54438" posY="-0.00810647" posZ="-237.3007" rotX="0" rotY="311.8448" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6684239" OffsetW="0.4167568" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="397.3953" posY="0.03880686" posZ="17.33755" rotX="0" rotY="322.7107" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6684239" OffsetW="0.4245693" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="93.06002" posY="-0.2512788" posZ="-203.1862" rotX="0" rotY="41.71392" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6674473" OffsetW="0.4050381" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="-420.6644" posY="-0.5000193" posZ="40.49514" rotX="0" rotY="314.1057" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6586583" OffsetW="0.4148037" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="-399.7108" posY="-0.2225503" posZ="-16.32788" rotX="0" rotY="293.2393" rotZ="0" scaleX="0.6847855" scaleY="0.6847855" scaleZ="0.6847855">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6567051" OffsetW="0.4148037" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="-355.7258" posY="-0.3061656" posZ="-94.70134" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6674473" OffsetW="0.4069912" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="-377.758" posY="-0.2351503" posZ="139.4521" rotX="0" rotY="298.0166" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6684239" OffsetW="0.41871" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="-302.6788" posY="-0.2160758" posZ="-109.184" rotX="0" rotY="310.5677" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.654752" OffsetW="0.4148037" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="-375.89" posY="0.03877902" posZ="-75.46224" rotX="0" rotY="335.5431" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6684239" OffsetW="0.4206631" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="76.50169" posY="-0.07210279" posZ="74.33511" rotX="0" rotY="17.96711" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6674473" OffsetW="0.411874" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="96.06242" posY="-0.4328802" posZ="117.8926" rotX="0" rotY="25.51156" rotZ="0" scaleX="1.811797" scaleY="1.811797" scaleZ="1.811797">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.002929688" OffsetY="0.002929688" OffsetZ="0.6439435" OffsetW="0.414333" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="95.78078" posY="-0.5839283" posZ="170.614" rotX="0" rotY="121.1127" rotZ="0" scaleX="1.721757" scaleY="1.721757" scaleZ="1.721757">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.002929688" OffsetY="0.002929688" OffsetZ="0.6419904" OffsetW="0.414333" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_06_03" posX="68.91788" posY="-0.255881" posZ="150.8545" rotX="0" rotY="103.091" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_06_03" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6488926" OffsetW="0.4148037" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_01" posX="364.0583" posY="0.7246419" posZ="210.3477" rotX="0" rotY="347.1478" rotZ="0" scaleX="1.972122" scaleY="1.972122" scaleZ="1.972122">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_01/Plane001" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.8632774" OffsetW="0.1484337" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_01" posX="-375.6295" posY="1.013756" posZ="-74.58541" rotX="354.0361" rotY="335.5844" rotZ="1.064428" scaleX="1.783172" scaleY="1.783172" scaleZ="1.783172">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_01/Plane001" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9951134" OffsetW="0.1337852" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_01" posX="-355.1789" posY="0.8122849" posZ="-93.97498" rotX="0" rotY="0" rotZ="0" scaleX="1.933883" scaleY="1.933883" scaleZ="1.933883">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_01/Plane001" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.8632774" OffsetW="0.1503868" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_01" posX="-420.8546" posY="0.7935667" posZ="41.21353" rotX="0" rotY="315.4255" rotZ="0" scaleX="1.830056" scaleY="1.830056" scaleZ="1.830056">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_01/Plane001" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9970665" OffsetW="0.1191368" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_01" posX="94.17378" posY="0.8359193" posZ="-203.3772" rotX="0" rotY="41.19079" rotZ="0" scaleX="1.750088" scaleY="1.750088" scaleZ="1.750088">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_01/Plane001" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.8632774" OffsetW="0.1523399" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_01" posX="-242.8741" posY="0.6266053" posZ="88.51253" rotX="0" rotY="259.2924" rotZ="0" scaleX="1.830056" scaleY="1.830056" scaleZ="1.830056">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_01/Plane001" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9970665" OffsetW="0.1337852" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_01" posX="-13.57825" posY="1.049719" posZ="-236.2175" rotX="0" rotY="312.3755" rotZ="0" scaleX="1.379385" scaleY="1.379385" scaleZ="1.379385">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_01/Plane001" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9951134" OffsetW="0.1357384" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_01" posX="388.8553" posY="0.6496801" posZ="198.7486" rotX="359.9894" rotY="359.1301" rotZ="0.2790934" scaleX="2.16375" scaleY="2.163749" scaleZ="2.163749">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_01/Plane001" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.8632774" OffsetW="0.1542931" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_01" posX="199.6004" posY="0.6392478" posZ="196.812" rotX="0" rotY="294.8457" rotZ="0" scaleX="2.249524" scaleY="2.249524" scaleZ="2.249524">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_01/Plane001" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9951134" OffsetW="0.1376915" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_01" posX="389.4213" posY="0.5264478" posZ="-209.5855" rotX="0" rotY="261.7709" rotZ="0" scaleX="1.204371" scaleY="1.204371" scaleZ="1.204371">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_01/Plane001" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.8632774" OffsetW="0.1562462" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_01" posX="97.0062" posY="1.3812" posZ="119.1392" rotX="0" rotY="24.09992" rotZ="0" scaleX="1.450486" scaleY="1.450486" scaleZ="1.450486">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_01/Plane001" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.9970665" OffsetW="0.1357384" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_02" posX="397.05" posY="0.5437871" posZ="45.12598" rotX="0" rotY="318.2743" rotZ="0" scaleX="1.665086" scaleY="1.665086" scaleZ="1.665086">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_02/Plane002" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3466759" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_02" posX="-338.9837" posY="1.011014" posZ="-60.54176" rotX="7.87043" rotY="75.36486" rotZ="0" scaleX="2.084518" scaleY="2.084519" scaleZ="2.084519">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_02/Plane002" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3349571" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_02" posX="-36.83594" posY="0.7843174" posZ="-204.1758" rotX="0" rotY="53.21011" rotZ="0" scaleX="2.633173" scaleY="2.633173" scaleZ="2.633173">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_02/Plane002" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3369102" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_02" posX="-417.7901" posY="0.2151131" posZ="52.39944" rotX="0" rotY="329.9019" rotZ="0" scaleX="2.252165" scaleY="2.252165" scaleZ="2.252165">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_02/Plane002" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3427696" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_02" posX="-377.1582" posY="0.530687" posZ="138.6506" rotX="0" rotY="291.0863" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_02/Plane002" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3290977" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_02" posX="-451.7122" posY="0.4674923" posZ="38.8831" rotX="0" rotY="52.35823" rotZ="0" scaleX="1.879201" scaleY="1.879201" scaleZ="1.879201">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_02/Plane002" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3408165" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_02" posX="-302.9957" posY="0.9094411" posZ="-108.5736" rotX="349.4434" rotY="306.1341" rotZ="-1.30271E-06" scaleX="2.153636" scaleY="2.153636" scaleZ="2.153637">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_02/Plane002" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3447227" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_02" posX="408.9011" posY="0.6222736" posZ="178.6634" rotX="0" rotY="0" rotZ="0" scaleX="2.107571" scaleY="2.107571" scaleZ="2.107571">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_02/Plane002" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.348629" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_02" posX="-410.804" posY="0.4561191" posZ="-1.043682" rotX="0" rotY="280.4154" rotZ="0" scaleX="1" scaleY="1" scaleZ="1">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_02/Plane002" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3388634" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_02" posX="-409.6427" posY="0.747794" posZ="-50.93425" rotX="0" rotY="0" rotZ="0" scaleX="2.305411" scaleY="2.305411" scaleZ="2.305411">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_02/Plane002" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3310509" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_02" posX="-203.0496" posY="0.4055223" posZ="137.6652" rotX="0" rotY="293.7677" rotZ="0" scaleX="1.860237" scaleY="1.860237" scaleZ="1.860237">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_02/Plane002" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3525352" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_02" posX="218.8958" posY="0.4000699" posZ="166.2739" rotX="0" rotY="50.01481" rotZ="0" scaleX="1.910898" scaleY="1.910898" scaleZ="1.910898">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_02/Plane002" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.333004" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_07_02" posX="96.1659" posY="1.181191" posZ="168.5688" rotX="0" rotY="296.8943" rotZ="0" scaleX="2.5348" scaleY="2.5348" scaleZ="2.5348">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_07_02/Plane002" LightmapIndex="0" OffsetX="0.0009765625" OffsetY="0.0009765625" OffsetZ="0.6669884" OffsetW="0.3505821" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_08_01" posX="244.1374" posY="-7.127904E-05" posZ="-235.4044" rotX="19.7166" rotY="0" rotZ="0" scaleX="0.6778252" scaleY="0.6778252" scaleZ="0.6778252">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_08" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.7314224" OffsetW="0.3466568" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_08_01" posX="-445.4584" posY="-0.1330848" posZ="82.25485" rotX="3.20256" rotY="286.426" rotZ="334.5758" scaleX="0.2509608" scaleY="0.2509608" scaleZ="0.2509608">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_08" LightmapIndex="0" OffsetX="0.001953125" OffsetY="0.001953125" OffsetZ="0.9951096" OffsetW="0.1308517" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_08_01" posX="-99.59151" posY="-0.07208093" posZ="94.66844" rotX="0" rotY="0" rotZ="0" scaleX="0.7221415" scaleY="0.7221415" scaleZ="0.7221415">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_08" LightmapIndex="0" OffsetX="0.006835938" OffsetY="0.006835938" OffsetZ="0.8818092" OffsetW="0.152317" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_08_01" posX="151.5535" posY="-0.5210442" posZ="-273.304" rotX="0" rotY="0" rotZ="0" scaleX="0.7187758" scaleY="0.7187758" scaleZ="0.7187758">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_08" LightmapIndex="0" OffsetX="0.006835938" OffsetY="0.006835938" OffsetZ="0.8661842" OffsetW="0.152317" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_08_01" posX="427.5929" posY="-0.131157" posZ="-112.6346" rotX="0" rotY="0" rotZ="21.46909" scaleX="0.5639543" scaleY="0.5639544" scaleZ="0.5639543">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_08" LightmapIndex="0" OffsetX="0.004882812" OffsetY="0.004882813" OffsetZ="0.7314262" OffsetW="0.3583794" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_08_01" posX="409.2188" posY="5.337346E-05" posZ="179.5236" rotX="0" rotY="0" rotZ="0" scaleX="0.5290746" scaleY="0.5290746" scaleZ="0.5290746">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_08" LightmapIndex="0" OffsetX="0.004882812" OffsetY="0.004882813" OffsetZ="0.7372856" OffsetW="0.3583794" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_08_01" posX="-326.9073" posY="-0.2196682" posZ="-70.82655" rotX="0" rotY="0" rotZ="0" scaleX="0.5456586" scaleY="0.5456586" scaleZ="0.5456586">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_08" LightmapIndex="0" OffsetX="0.004882812" OffsetY="0.004882813" OffsetZ="0.993145" OffsetW="0.211895" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_08_01" posX="-293.3688" posY="-0.3560064" posZ="-142.3392" rotX="20.03346" rotY="44.65192" rotZ="347.104" scaleX="0.6377323" scaleY="0.6377323" scaleZ="0.6377323">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_08" LightmapIndex="0" OffsetX="0.005859375" OffsetY="0.005859375" OffsetZ="0.7314224" OffsetW="0.3525162" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_08_01" posX="160.3154" posY="-6.21409E-05" posZ="-205.1219" rotX="14.83934" rotY="0" rotZ="0" scaleX="0.6916212" scaleY="0.6916212" scaleZ="0.6916212">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_08" LightmapIndex="0" OffsetX="0.006835938" OffsetY="0.006835938" OffsetZ="0.8739967" OffsetW="0.152317" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_08_01" posX="390.5319" posY="-6.323988E-05" posZ="-209.3043" rotX="23.25708" rotY="298.8449" rotZ="357.0762" scaleX="0.5187743" scaleY="0.5187743" scaleZ="0.5187743">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_08" LightmapIndex="0" OffsetX="0.004882812" OffsetY="0.004882813" OffsetZ="0.993145" OffsetW="0.2187309" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_08_01" posX="-446.179" posY="-0.2158747" posZ="81.34442" rotX="0" rotY="0" rotZ="0" scaleX="0.4653716" scaleY="0.4653716" scaleZ="0.4653716">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_08" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.9033051" OffsetW="0.2499847" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_08_01" posX="-451.2598" posY="2.764812" posZ="6.740131" rotX="0" rotY="0" rotZ="342.6497" scaleX="0.3377063" scaleY="0.3377063" scaleZ="0.3377063">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_08" LightmapIndex="0" OffsetX="0.002929688" OffsetY="0.002929687" OffsetZ="0.9951057" OffsetW="0.05565262" />
+      </LightMaps>
+    </ModelsNode>
+    <ModelsNode name="rc_01_plt_08_02" posX="385.0709" posY="-0.07206876" posZ="67.50028" rotX="339.4438" rotY="13.34036" rotZ="14.60545" scaleX="0.4669945" scaleY="0.4669945" scaleZ="0.4669944">
+      <LightMaps>
+        <LightMap Name="rc_01_plt_08_02" LightmapIndex="0" OffsetX="0.00390625" OffsetY="0.00390625" OffsetZ="0.9033051" OffsetW="0.2451019" />
+      </LightMaps>
+    </ModelsNode>
+  </Models>
+</Root>

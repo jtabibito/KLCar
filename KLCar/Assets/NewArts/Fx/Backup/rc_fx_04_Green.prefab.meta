@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: aa9c5452774e6404093631ce425eaf3a
+labels:
+- toon
+- gas
+- smoke
+- directional
+- particles
+- cartoonfx
+NativeFormatImporter:
+  userData: 

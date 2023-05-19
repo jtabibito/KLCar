@@ -1,0 +1,86 @@
+fileFormatVersion: 2
+guid: 7a4087b05fe6043428f568ed8fc6ce44
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: 111
+    100002: ______001
+    100004: ______002
+    100006: //RootNode
+    100008: Plane001
+    100010: Plane002
+    400000: 111
+    400002: ______001
+    400004: ______002
+    400006: //RootNode
+    400008: Plane001
+    400010: Plane002
+    2300000: 111
+    2300002: ______001
+    2300004: ______002
+    2300006: Plane001
+    2300008: Plane002
+    3300000: 111
+    3300002: ______001
+    3300004: ______002
+    3300006: Plane001
+    3300008: Plane002
+    4300000: 111
+    4300002: ______001
+    4300004: ______002
+    4300006: Plane001
+    4300008: Plane002
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

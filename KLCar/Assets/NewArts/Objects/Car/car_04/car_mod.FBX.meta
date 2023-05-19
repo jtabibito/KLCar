@@ -1,0 +1,83 @@
+fileFormatVersion: 2
+guid: 27a64800c09718540831e30c1420b737
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: BL
+    100002: BR
+    100004: car_04_mod001
+    100006: car_light_BL
+    100008: car_light_BR
+    100010: car_light_FL
+    100012: car_light_FR
+    100014: //RootNode
+    100016: car_role
+    100018: FL
+    100020: FR
+    400000: BL
+    400002: BR
+    400004: car_04_mod001
+    400006: car_light_BL
+    400008: car_light_BR
+    400010: car_light_FL
+    400012: car_light_FR
+    400014: //RootNode
+    400016: car_role
+    400018: FL
+    400020: FR
+    2300000: car_04_mod001
+    3300000: car_04_mod001
+    4300000: car_04_mod001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
